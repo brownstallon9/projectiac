@@ -12,11 +12,11 @@ span{
     }
 } */
 .phase-1{
-    background: burlywood !important;
+    background: #FAF6F0 !important;
 }
 .phase-2{
-    background: lightgoldenrodyellow;
+    background: #F4EAE0 !important;
 }
 .phase-3{
-    background: rgb(240, 238, 238);
+    background: #f4dfc8 !important;
 }
