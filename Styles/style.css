@@ -14,11 +14,11 @@ span{
     }
 } */
 .phase-1{
-    background: #FAF6F0 !important;
-}
+    border-radius: 200px;
+    }
 .phase-2{
-    background: #F4EAE0 !important;
+   
 }
 .phase-3{
-    background: #f4dfc8 !important;
+    
 }
